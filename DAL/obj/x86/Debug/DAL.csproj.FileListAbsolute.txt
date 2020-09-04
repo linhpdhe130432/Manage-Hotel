@@ -1,0 +1,9 @@
+C:\Users\MAC\source\repos\ManageHotel\DAL\bin\x86\Debug\DAL.dll
+C:\Users\MAC\source\repos\ManageHotel\DAL\bin\x86\Debug\DAL.pdb
+C:\Users\MAC\source\repos\ManageHotel\DAL\bin\x86\Debug\Entity.dll
+C:\Users\MAC\source\repos\ManageHotel\DAL\bin\x86\Debug\Entity.pdb
+C:\Users\MAC\source\repos\ManageHotel\DAL\obj\x86\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\MAC\source\repos\ManageHotel\DAL\obj\x86\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\ManageHotel\DAL\obj\x86\Debug\DAL.csproj.CopyComplete
+C:\Users\MAC\source\repos\ManageHotel\DAL\obj\x86\Debug\DAL.dll
+C:\Users\MAC\source\repos\ManageHotel\DAL\obj\x86\Debug\DAL.pdb

@@ -1,0 +1,5 @@
+C:\Users\MAC\source\repos\ManageHotel\Entity\bin\Debug\Entity.dll
+C:\Users\MAC\source\repos\ManageHotel\Entity\bin\Debug\Entity.pdb
+C:\Users\MAC\source\repos\ManageHotel\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\ManageHotel\Entity\obj\Debug\Entity.dll
+C:\Users\MAC\source\repos\ManageHotel\Entity\obj\Debug\Entity.pdb
